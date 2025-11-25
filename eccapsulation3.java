@@ -16,4 +16,4 @@ public class eccapsulation3 {
         a.setbalance(-111);
         System.out.println(a.getbalance());
     }
-}
+}//output 0;negative balance set nahi hua Encapsulation Securty

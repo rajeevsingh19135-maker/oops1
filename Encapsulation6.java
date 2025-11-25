@@ -13,3 +13,4 @@ public class Encapsulation6 {
         d.show();
     }
 }
+//Private method

@@ -10,7 +10,7 @@ class Account{
         return balance;
     }
 }
-public class eccapsulation3 {
+public class Encapsulation3 {
     public static void main(String[] args) {
         Account a=new Account();
         a.setbalance(-111);
